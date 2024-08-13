@@ -8,11 +8,15 @@ Folder RProject contains the code used to make the statistical evaluations.
 
 ## Installation
 
+You can download the apk for the [Individual Learning Environment](https://isgcloud.cs.uni-magdeburg.de/d/044e7a5665da4c848a07/files/?p=%2FSingle-User.apk) and the [Collaborative Learning Environment](https://isgcloud.cs.uni-magdeburg.de/d/044e7a5665da4c848a07/files/?p=%2FMulti-User.apk).
+Afterwards you can install these APKs on your Quest.
 
 ### Unity Project
-Download one or both folders. 
+Download the repository. 
 Install Unity Version 2021.3.35f1 for Multiuser or 2022.3.12f1 for Singleuser.
 Open the Singleuser or Multisuer Project in the Unity Hub.
+If you want to use the heart models you have to download them from [here](https://isgcloud.cs.uni-magdeburg.de/d/044e7a5665da4c848a07/) (https://isgcloud.cs.uni-magdeburg.de/d/044e7a5665da4c848a07/).
+
 
 ## Controls
 
