@@ -16,6 +16,9 @@ Download the repository.
 Install Unity Version 2021.3.35f1 for Multiuser or 2022.3.12f1 for Singleuser.
 Open the Singleuser or Multisuer Project in the Unity Hub.
 If you want to use the heart models you have to download them from [here](https://isgcloud.cs.uni-magdeburg.de/d/044e7a5665da4c848a07/) (https://isgcloud.cs.uni-magdeburg.de/d/044e7a5665da4c848a07/).
+For the Single User you have to download the Folders which are named Stage_X_Low and the Locked X.prefab files. Create a resoruces folder in your Assets and paste them in there. Then you have to insert the Prefab files onto their respective task objects within the CreateLockedMesh Script.
+
+For the Multi User you have to download the Folder which are named Stage X and the FBX_Locked X.prefab files. Create a resoruces folder in your Assets and paste them in there. Then you have to insert the Prefab files onto their respective task objects within the CreateLockedMesh Script and change the enum to FBX.
 
 
 ## Controls
@@ -41,4 +44,4 @@ You have the possibility to import your own content as a list of fbx or mesh obj
 You have to save the Modells using a specific naming convention and save the bundles under a specific path, so that the code can load the FBX correctly from the bundle. 
 Asset Bundles are loaded from a folder “AssetBundles” in the Assets folder when using the Unity Editor. When the application is deployed to the Quest the Asset Bundles are loaded form the Application.persistentDataPath (https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html).
 
-To annotate your own models you can
+To annotate your own models you can create Annotations undre the Annotations object.
