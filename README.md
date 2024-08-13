@@ -14,8 +14,6 @@ Download one or both folders.
 Install Unity Version 2021.3.35f1 for Multiuser or 2022.3.12f1 for Singleuser.
 Open the Singleuser or Multisuer Project in the Unity Hub.
 
-## Projectstructure
-
 ## Controls
 
 ### Singleuser
