@@ -29,7 +29,7 @@ The application is controlled by the hand tracking built into the quest. The con
 
 ### Multiuser
 
-The application is controlled using the Quest controllers. The controller uses a cursor to interact with the buttons. The stick and buttons on the controller are used to rotate and scale the heart. A furhter explanation for the controls is illustrated here [einfügen von dannys pdf]![0](https://github.com/user-attachments/assets/d143f45e-57f8-4764-bdf1-210d2b492c1d)![1](https://github.com/user-attachments/assets/867f08a6-f5ec-441c-b37a-bdaa2d1c1f90)
+The application is controlled using the Quest controllers. The controller uses a cursor to interact with the buttons. The stick and buttons on the controller are used to rotate and scale the heart. A furhter explanation for the controls is illustrated here![0](https://github.com/user-attachments/assets/d143f45e-57f8-4764-bdf1-210d2b492c1d)![1](https://github.com/user-attachments/assets/867f08a6-f5ec-441c-b37a-bdaa2d1c1f90)
 
 
 
