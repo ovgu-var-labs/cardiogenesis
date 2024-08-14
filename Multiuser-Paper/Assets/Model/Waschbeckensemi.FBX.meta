@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 9a9a0e210a4fc814cb23ec233d10b311
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BASE RING
+    100002: COLE PIPE
+    100004: HOT PIPE
+    100006: MIXER TAP
+    100008: OVERFLOW RING
+    100010: PLUGHOLE
+    100012: PLUGHOLE CAP
+    100014: SEMI PEDESTAL
+    100016: SINK
+    100018: UBEND WASTE PIPE
+    100020: //RootNode
+    100022: WATER OUTLET RING
+    100024: WATERPIPE INLET
+    400000: BASE RING
+    400002: COLE PIPE
+    400004: HOT PIPE
+    400006: MIXER TAP
+    400008: OVERFLOW RING
+    400010: PLUGHOLE
+    400012: PLUGHOLE CAP
+    400014: SEMI PEDESTAL
+    400016: SINK
+    400018: UBEND WASTE PIPE
+    400020: //RootNode
+    400022: WATER OUTLET RING
+    400024: WATERPIPE INLET
+    2100000: No Name
+    2300000: BASE RING
+    2300002: COLE PIPE
+    2300004: HOT PIPE
+    2300006: MIXER TAP
+    2300008: OVERFLOW RING
+    2300010: PLUGHOLE
+    2300012: PLUGHOLE CAP
+    2300014: SEMI PEDESTAL
+    2300016: SINK
+    2300018: UBEND WASTE PIPE
+    2300020: WATER OUTLET RING
+    2300022: WATERPIPE INLET
+    3300000: BASE RING
+    3300002: COLE PIPE
+    3300004: HOT PIPE
+    3300006: MIXER TAP
+    3300008: OVERFLOW RING
+    3300010: PLUGHOLE
+    3300012: PLUGHOLE CAP
+    3300014: SEMI PEDESTAL
+    3300016: SINK
+    3300018: UBEND WASTE PIPE
+    3300020: WATER OUTLET RING
+    3300022: WATERPIPE INLET
+    4300000: SINK
+    4300002: HOT PIPE
+    4300004: COLE PIPE
+    4300006: PLUGHOLE
+    4300008: PLUGHOLE CAP
+    4300010: UBEND WASTE PIPE
+    4300012: WATERPIPE INLET
+    4300014: OVERFLOW RING
+    4300016: SEMI PEDESTAL
+    4300018: MIXER TAP
+    4300020: WATER OUTLET RING
+    4300022: BASE RING
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
