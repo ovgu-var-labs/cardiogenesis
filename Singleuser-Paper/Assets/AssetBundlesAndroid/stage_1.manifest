@@ -1,0 +1,232 @@
+ManifestFileVersion: 0
+CRC: 1032765473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5806c1fc454f2177cff3bbb3e04f13e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3c8e9364a60c76c5b1821efa7fc8a17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5806c1fc454f2177cff3bbb3e04f13e1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_156.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_148.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_3.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_133.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_79.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_198.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_62.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_80.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_172.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_19.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_34.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_49.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_187.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_85.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_170.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_83.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_154.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_110.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_91.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_64.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_92.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_136.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_81.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_96.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_13.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_163.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_65.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_22.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_161.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_157.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_125.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_45.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_40.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_73.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_118.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_135.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_15.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_109.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_2.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_53.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_179.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_51.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_162.fbx
+- Assets/Materials/VertexColorMaterial.mat
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_86.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_176.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_160.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_16.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_139.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_122.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_52.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_126.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_132.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_84.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_114.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_55.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_68.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_197.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_123.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_54.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_31.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_189.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_159.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_76.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_20.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_101.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_94.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_105.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_7.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_131.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_166.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_12.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_21.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_180.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_193.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_28.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_75.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_120.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_95.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_184.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_98.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_108.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_130.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_164.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_72.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_169.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_142.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_104.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_33.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_82.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_32.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_97.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_50.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_88.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_121.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_29.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_4.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_151.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_181.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_14.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_74.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_100.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_129.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_37.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_30.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_115.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_134.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_10.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_175.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_138.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_6.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_165.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_36.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_199.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_152.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_78.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_113.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_106.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_112.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_93.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_168.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_60.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_146.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_38.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_107.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_190.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_63.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_26.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_11.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_173.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_57.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_128.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_155.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_167.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_56.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_144.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_44.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_9.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_191.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_194.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_137.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_171.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_87.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_17.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_127.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_58.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_147.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_111.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_18.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_25.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_47.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_39.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_158.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_5.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_124.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_70.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_43.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_41.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_174.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_116.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_196.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_195.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_119.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_48.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_8.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_90.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_23.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_188.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_27.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_42.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_46.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_89.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_185.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_192.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_69.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_66.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_67.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_149.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_102.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_182.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_150.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_61.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_99.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_145.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_141.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_103.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_71.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_143.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_140.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_177.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_24.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_117.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_35.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_186.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_178.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_183.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_77.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_153.fbx
+- Assets/Resources_moved/FBX 1/Stage 1/Stage 1_59.fbx
+Dependencies: []

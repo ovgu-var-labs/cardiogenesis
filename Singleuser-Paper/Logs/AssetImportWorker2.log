@@ -1,0 +1,319 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.12f1 (4fe6e059c7ef) revision 5236448'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'de' Physical Memory: 32706 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64104
+Successfully changed project path to: D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper
+D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14344] Host "[IP] 141.44.249.86 [Port] 0 [Flags] 2 [Guid] 423089160 [EditorId] 423089160 [Version] 1048832 [Id] WindowsEditor(7,PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [14344] Host "[IP] 141.44.249.86 [Port] 0 [Flags] 2 [Guid] 423089160 [EditorId] 423089160 [Version] 1048832 [Id] WindowsEditor(7,PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 2993.47 ms, found 11 plugins.
+Preloading 2 native plugins for Editor in 2.01 ms.
+Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 Ti (ID=0x2203)
+    Vendor:   NVIDIA
+    VRAM:     24327 MB
+    Driver:   31.0.15.3623
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.015449 seconds.
+- Loaded All Assemblies, in  1.071 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 257 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.618 seconds
+Domain Reload Profiling: 1688ms
+	BeginReloadAssembly (160ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (371ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (467ms)
+		LoadAssemblies (159ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (464ms)
+			TypeCache.Refresh (463ms)
+				TypeCache.ScanAssembly (450ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (618ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (562ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (375ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (111ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 17.312 seconds
+Refreshing native plugins compatible for Editor in 10.34 ms, found 11 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Failed to locate MixedRealityToolkit folders in the project.
+0x00007ff7cef4a2fd (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cef4f2a9 (Unity) StackWalker::ShowCallstack
+0x00007ff7cff26931 (Unity) GetStacktrace
+0x00007ff7d05e5402 (Unity) DebugStringToFile
+0x00007ff7cde98266 (Unity) DebugLogHandler_CUSTOM_Internal_Log
+0x0000026fb84f7d53 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+0x0000026fb84f7c6b (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000026fb84f79b0 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x0000026fb84f7878 (Mono JIT Code) UnityEngine.Debug:LogWarning (object)
+0x0000026fb84e53f3 (Mono JIT Code) Microsoft.MixedReality.Toolkit.Utilities.Editor.MixedRealityToolkitFiles:MapRelativePathToAbsolutePath (Microsoft.MixedReality.Toolkit.Utilities.Editor.MixedRealityToolkitFiles/SearchType,Microsoft.MixedReality.Toolkit.Utilities.Editor.MixedRealityToolkitModuleType,string) (at D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper/Assets/MRTK/Core/Utilities/Editor/Setup/MixedRealityToolkitFiles.cs:539)
+0x0000026fb84e37eb (Mono JIT Code) Microsoft.MixedReality.Toolkit.Utilities.Editor.MixedRealityToolkitFiles:MapRelativeFolderPathToAbsolutePath (Microsoft.MixedReality.Toolkit.Utilities.Editor.MixedRealityToolkitModuleType,string) (at D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper/Assets/MRTK/Core/Utilities/Editor/Setup/MixedRealityToolkitFiles.cs:361)
+0x0000026fb84e31bb (Mono JIT Code) Microsoft.MixedReality.Toolkit.Utilities.Editor.MixedRealityToolkitPreserveSettings:EnsureLinkXml () (at D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper/Assets/MRTK/Core/Utilities/Editor/Setup/MixedRealityToolkitPreserveSettings.cs:65)
+0x0000026fb84e2f0b (Mono JIT Code) Microsoft.MixedReality.Toolkit.Utilities.Editor.EditorProjectUtilities:.cctor () (at D:/Jonas/Unity/Projecte/CopiesForPaper/Singleuser-Paper/Assets/MRTK/Core/Utilities/Editor/EditorProjectUtilities.cs:36)
+0x0000026fb84e2c35 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007ff98c444b6e (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ff98c37d204 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3066)
+0x00007ff98c377fa9 (mono-2.0-bdwgc) mono_runtime_class_init_full (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:563)
+0x00007ff98c2addd7 (mono-2.0-bdwgc) ves_icall_System_Runtime_CompilerServices_RuntimeHelpers_RunClassConstructor (at C:/build/output/Unity-Technologies/mono/mono/metadata/icall.c:1292)
+0x00007ff98c2dfebc (mono-2.0-bdwgc) ves_icall_System_Runtime_CompilerServices_RuntimeHelpers_RunClassConstructor_raw (at C:/build/output/Unity-Technologies/mono/mono/metadata/icall-def.h:756)
+0x0000026fa926a56a (Mono JIT Code) (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (intptr)
+0x0000026fa926a45b (Mono JIT Code) System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+0x0000026fa92664bb (Mono JIT Code) UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+0x0000026fa8dda288 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object (object,intptr,intptr,intptr)
+0x00007ff98c444b6e (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ff98c37d204 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3066)
+0x00007ff98c37d37c (mono-2.0-bdwgc) mono_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3113)
+0x00007ff7cee61494 (Unity) scripting_method_invoke
+0x00007ff7cee3f544 (Unity) ScriptingInvocation::Invoke
+0x00007ff7cee3a185 (Unity) ScriptingInvocation::Invoke<void>
+0x00007ff7cef8cfd3 (Unity) Scripting::UnityEditor::EditorAssembliesProxy::ProcessInitializeOnLoadAttributes
+0x00007ff7cee34308 (Unity) MonoManager::SetupLoadedEditorAssemblies
+0x00007ff7cee29cc9 (Unity) MonoManager::FinalizeReload
+0x00007ff7d0222bca (Unity) ScriptingInitializer::FinalizeReload
+0x00007ff7cfdcff4b (Unity) LoadUserAssemblies
+0x00007ff7d02d14ef (Unity) <lambda_e4c09a862f47a773e31babb76239f51f>::operator()
+0x00007ff7d030b292 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
+0x00007ff7d02f723e (Unity) asio::detail::win_iocp_io_context::do_one
+0x00007ff7d02f8e6e (Unity) asio::detail::win_iocp_io_context::run
+0x00007ff7d030963c (Unity) IOService::Run
+0x00007ff7d02dd85f (Unity) AssetImportWorkerClient::Run
+0x00007ff7d02a8427 (Unity) RunAssetImportWorkerClientV2
+0x00007ff7d02a84ab (Unity) RunAssetImporterV2
+0x00007ff7cfaa79b3 (Unity) Application::InitializeProject
+0x00007ff7cff32735 (Unity) WinMain
+0x00007ff7d13161be (Unity) __scrt_common_main_seh
+0x00007ffa165d7374 (KERNEL32) BaseThreadInitThunk
+0x00007ffa16adcc91 (ntdll) RtlUserThreadStart
+
+System.ArgumentNullException: Value cannot be null.
+Parameter name: path1
+  at System.IO.Path.Combine (System.String path1, System.String path2) [0x00003] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+  at Microsoft.MixedReality.Toolkit.Utilities.Editor.MixedRealityToolkitPreserveSettings.EnsureLinkXml () [0x0000b] in D:\Jonas\Unity\Projecte\CopiesForPaper\Singleuser-Paper\Assets\MRTK\Core\Utilities\Editor\Setup\MixedRealityToolkitPreserveSettings.cs:66 
+  at Microsoft.MixedReality.Toolkit.Utilities.Editor.EditorProjectUtilities..cctor () [0x00022] in D:\Jonas\Unity\Projecte\CopiesForPaper\Singleuser-Paper\Assets\MRTK\Core\Utilities\Editor\EditorProjectUtilities.cs:34 
+0x00007ff7cef4a2fd (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cef4f2a9 (Unity) StackWalker::ShowCallstack
+0x00007ff7cff26931 (Unity) GetStacktrace
+0x00007ff7d05e5402 (Unity) DebugStringToFile
+0x00007ff7cde98266 (Unity) DebugLogHandler_CUSTOM_Internal_Log
+0x0000026fb84f7d53 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+0x0000026fb84f7c6b (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000026fb84f79b0 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x0000026fb8a92635 (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x0000026fa926656b (Mono JIT Code) UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+0x0000026fa8dda288 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object (object,intptr,intptr,intptr)
+0x00007ff98c444b6e (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ff98c37d204 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3066)
+0x00007ff98c37d37c (mono-2.0-bdwgc) mono_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3113)
+0x00007ff7cee61494 (Unity) scripting_method_invoke
+0x00007ff7cee3f544 (Unity) ScriptingInvocation::Invoke
+0x00007ff7cee3a185 (Unity) ScriptingInvocation::Invoke<void>
+0x00007ff7cef8cfd3 (Unity) Scripting::UnityEditor::EditorAssembliesProxy::ProcessInitializeOnLoadAttributes
+0x00007ff7cee34308 (Unity) MonoManager::SetupLoadedEditorAssemblies
+0x00007ff7cee29cc9 (Unity) MonoManager::FinalizeReload
+0x00007ff7d0222bca (Unity) ScriptingInitializer::FinalizeReload
+0x00007ff7cfdcff4b (Unity) LoadUserAssemblies
+0x00007ff7d02d14ef (Unity) <lambda_e4c09a862f47a773e31babb76239f51f>::operator()
+0x00007ff7d030b292 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
+0x00007ff7d02f723e (Unity) asio::detail::win_iocp_io_context::do_one
+0x00007ff7d02f8e6e (Unity) asio::detail::win_iocp_io_context::run
+0x00007ff7d030963c (Unity) IOService::Run
+0x00007ff7d02dd85f (Unity) AssetImportWorkerClient::Run
+0x00007ff7d02a8427 (Unity) RunAssetImportWorkerClientV2
+0x00007ff7d02a84ab (Unity) RunAssetImporterV2
+0x00007ff7cfaa79b3 (Unity) Application::InitializeProject
+0x00007ff7cff32735 (Unity) WinMain
+0x00007ff7d13161be (Unity) __scrt_common_main_seh
+0x00007ffa165d7374 (KERNEL32) BaseThreadInitThunk
+0x00007ffa16adcc91 (ntdll) RtlUserThreadStart
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.89.0
+Asset Pipeline Refresh (id=ba1cf8e830b752e4caf513912d5be2e0): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  3.836 seconds
+Domain Reload Profiling: 21143ms
+	BeginReloadAssembly (139ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (17084ms)
+		LoadAssemblies (16724ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (437ms)
+			TypeCache.Refresh (348ms)
+				TypeCache.ScanAssembly (275ms)
+			ScanForSourceGeneratedMonoScriptInfo (57ms)
+			ResolveRequiredComponents (30ms)
+	FinalizeReload (3836ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3597ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (118ms)
+			ProcessInitializeOnLoadAttributes (3267ms)
+			ProcessInitializeOnLoadMethodAttributes (176ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 13.60 ms, found 11 plugins.
+Preloading 2 native plugins for Editor in 0.05 ms.
+Unloading 111 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 143 unused Assets / (0.5 MB). Loaded Objects now: 9998.
+Memory consumption went from 237.8 MB to 237.2 MB.
+Total: 7.740000 ms (FindLiveObjects: 0.697300 ms CreateObjectMapping: 0.845300 ms MarkObjects: 5.855600 ms  DeleteObjects: 0.340800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:FusionILWeaverTriggerImporter/ConfigHash: f00d711f224b60495b123e034556d78b -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:Fusion.PrefabsDependency: 36f63a184e276d6e3dce8b5db5cef57d -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 12.70 ms, found 11 plugins.
+Preloading 2 native plugins for Editor in 0.04 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3 unused Assets / (443.8 KB). Loaded Objects now: 9998.
+Memory consumption went from 229.6 MB to 229.2 MB.
+Total: 7.048500 ms (FindLiveObjects: 0.746700 ms CreateObjectMapping: 0.806300 ms MarkObjects: 5.319300 ms  DeleteObjects: 0.175100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:FusionILWeaverTriggerImporter/ConfigHash: f00d711f224b60495b123e034556d78b -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:Fusion.PrefabsDependency: 36f63a184e276d6e3dce8b5db5cef57d -> 
